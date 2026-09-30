@@ -17,8 +17,8 @@ export const portfolioData = {
   stats: [
     { label: "Development Experience", value: "2+ Years", icon: "Code" },
     { label: "Learning & Project Track", value: "3+ Years", icon: "TrendingUp" },
-    { label: "Full Stack Projects", value: "10+", icon: "Briefcase" },
-    { label: "Students & Mentees Trained", value: "500+", icon: "Users" }
+    { label: "Full Stack Projects", value: "100+", icon: "Briefcase" },
+    { label: "Students & Mentees Trained", value: "1000+", icon: "Users" }
   ],
 
   aboutHighlights: [
