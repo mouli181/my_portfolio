@@ -9,7 +9,7 @@ export const portfolioData = {
     web3formsKey: "80a08bb4-e290-4dd8-ac83-3c330cadecb3", // Optional free Web3Forms Access Key from https://web3forms.com
     shortBio: "I build practical web applications and help students turn programming concepts into real-world projects.",
     fullBio: "I am a Java Full Stack Developer and Technical Trainer with experience in building web applications and training college students in full-stack development. I have hands-on experience with Java, Spring Boot, React.js, Python, Django, MySQL, PostgreSQL, Hibernate, REST APIs, Git, and modern web development tools.",
-    resumeUrl: "https://drive.google.com/file/d/1KdpDd385zrQfddnGuPQ3rN2Ke69L4k4o/view?usp=sharing",
+    resumeUrl: "https://drive.google.com/file/d/1v_MHZ7U3GyAq4Ypaz5TLLR-OI9vJkhzQ/view?usp=drive_link",
     profileImage: "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?auto=format&fit=crop&w=800&q=80",
     heroBadges: ["Java", "Spring Boot", "React.js", "Python", "MySQL"]
   },
